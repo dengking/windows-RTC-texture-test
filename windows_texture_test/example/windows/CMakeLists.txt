@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 project(windows_texture_test_example LANGUAGES CXX)
-set(CMAKE_GENERATOR_INSTANCE "C:/Program Files/Microsoft Visual Studio/2022/Preview")
+
 set(BINARY_NAME "windows_texture_test_example")
 
 cmake_policy(SET CMP0063 NEW)
