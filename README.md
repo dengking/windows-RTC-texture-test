@@ -11,4 +11,4 @@ The problem in  issue [The UI fails to response after the screen is locked for a
 
 3、Reopen your screen and press the button and now it will not response to your action.
 
-English is not my mother tongue, so if my description is not accurate enough, contact me directly by email 2238897886@11.com.
+English is not my mother tongue, so if my description is not accurate enough, contact me directly by email 2238897886@qq.com.
