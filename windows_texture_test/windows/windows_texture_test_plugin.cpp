@@ -166,7 +166,7 @@ namespace
 
       // Update the texture @ 30 Hz
       // Setting this to 60 Hz might cause epileptic shocks :D
-      StartTimer(1000 / 30, [&, texture_id]()
+      StartTimer(1000 / 50, [&, texture_id]()
                  { textures_->MarkTextureFrameAvailable(texture_id); });
     }
     else if (method_name.compare("test") == 0)
